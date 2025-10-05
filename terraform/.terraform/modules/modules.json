@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dev-infra","Source":"./modules","Dir":"modules"},{"Key":"prd-infra","Source":"./modules","Dir":"modules"},{"Key":"stg-infra","Source":"./modules","Dir":"modules"}]}
